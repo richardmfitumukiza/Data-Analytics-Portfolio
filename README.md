@@ -1,6 +1,3 @@
-# Data Analytics Portfolio
-List of personal projects
-
 # [Oceanographic data analysis](https://github.com/richardmfitumukiza/california-oceanographic-data/blob/main/machine_learning_engineering.ipynb)
 ![colinearity](images/colinearity.png)
 * abcd efg
